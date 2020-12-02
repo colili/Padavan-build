@@ -1,2 +1,6 @@
 # Padavan-build说明
-现在不需要新建Release了，已经更改了脚本，直接fork，修改好之后，点击右上角的 Star 星星按钮即可开始自动编译（自己点击才会编译）。
+1. 自定义插件
+2. 修改完成之后，点击右上的Start commit，跳出小窗口点击Commit changes
+3. 点击Action（不行就先Unstar，然后再Star）
+4. 刷新看有没开始Build Padavan
+5. 完成后下载Package
