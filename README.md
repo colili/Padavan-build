@@ -2,7 +2,7 @@
 1. 默认登陆IP:192.168.2.1
 2. 默认用户名/密码:admin/admin
 3. 默认wifi密码:1234567890
-4. 集成/取消新增插件请修改此文件: .gitlab/workflows/build-padavan.yml
+4. 集成/取消新增插件请修改此文件: .github/workflows/build-padavan.yml
 
 # Padavan-build说明
 1. 自定义插件
